@@ -8,7 +8,7 @@ making sure that every project I work on is not only functional but also visuall
 💼 Currently working as a Front End Developer at A2Z IT Hub Pvt. Ltd.
 📚 Completed my post-graduation at Ahmednagar College with a CGPA of 8.3 in 2023.
 🌟 Freelancing experience includes designing a web application for The Branded Choice Dude Fashion Designer Unisex Boutique.
-🌐 Check out my portfolio website deployed on Vercel: My Portfolio
+🌐 Check out my portfolio website deployed on Vercel: [My Portfolio](https://sarfraz-mern-portfolio.vercel.app/)
 🛠 Skills
 Frontend: React, Redux, HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS
 Backend: Node.js, Express.js
@@ -20,9 +20,9 @@ Exploring advanced React patterns and hooks
 Deep diving into Node.js performance optimization techniques
 Experimenting with serverless architecture using AWS Lambda and Google Cloud Functions
 📫 How to Reach Me
-Email: sarfraz.bagwan@example.com
-LinkedIn: Sarfraz Bagwan
-GitHub: sarfraz-bagwan
+Email: sarfrazbagwan151@gmail.com
+LinkedIn: linkedin.com/in/sarfraz-bagwan-b79425292
+GitHub: [sarfraz-bagwan](https://github.com/ImBsarfraz)
 📝 My Projects
 1. YelpCamp: Find the Perfect Campsite for Your Adventure
 Description: YelpCamp is an interactive web application designed to help camping enthusiasts discover,
