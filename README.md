@@ -8,7 +8,7 @@ making sure that every project I work on is not only functional but also visuall
 💼 Currently working as a Front End Developer at A2Z IT Hub Pvt. Ltd.
 📚 Completed my post-graduation at Ahmednagar College with a CGPA of 8.3 in 2023.
 🌟 Freelancing experience includes designing a web application for The Branded Choice Dude Fashion Designer Unisex Boutique.
-🌐 Check out my portfolio website deployed on Vercel: [My Portfolio](https://sarfraz-mern-portfolio.vercel.app/)
+🌐 Check out my portfolio website deployed on Vercel: [My Portfolio](https://official-sarfraz-website.vercel.app)
 🛠 Skills
 Frontend: React, Redux, HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS
 Backend: Node.js, Express.js
