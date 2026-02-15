@@ -5,7 +5,7 @@ Over the years, I have honed my skills in various technologies and have develope
 making sure that every project I work on is not only functional but also visually appealing.
 
 🚀 About Me
-💼 Currently working as a Front End Developer at A2Z IT Hub Pvt. Ltd.
+💼 Currently working as a Front End Developer at Upskills 
 📚 Completed my post-graduation at Ahmednagar College with a CGPA of 8.3 in 2023.
 🌟 Freelancing experience includes designing a web application for The Branded Choice Dude Fashion Designer Unisex Boutique.
 🌐 Check out my portfolio website deployed on Vercel: [My Portfolio](https://official-sarfraz-website.vercel.app)
